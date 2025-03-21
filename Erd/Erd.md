@@ -2,8 +2,17 @@
 
 ## ERD
 
-a. Entitas  
-b. Atribute  
+a. Entitas
+
+Merupakan representasi nama table
+
+![gambar entitas](https://raw.githubusercontent.com/Efrosine/RPL-Note/refs/heads/main/Resources/entitas.webp)
+
+b. Atribute
+
+Merupakan representasi field dari table terkait
+
+
 c. Relasi
 
 ## CDM
